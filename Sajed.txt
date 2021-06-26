@@ -1,0 +1,7 @@
+Our initial plan is to write a Machine Learning based paper. So far, we have viewd few datasets from Kaggle, UCI etc. and still reviewing some papers on machine learning. We couldn't come up with our main topic yet. We'll be viewing some papers on NLP and Graph embeddings for our topic selection as well. Once we are done choosing our topic we'll start uploading our project proposal ppt and required files. 
+Datasets we've viewed so far: 
+1. Heart Attack Analysis & Prediction Dataset 
+2. Daily News for Stock Market Prediction 
+3. Covid-19 World Vaccination Process 
+4. Credit Card Fraud Detection 
+5. Huge Stock Market Dataset 
