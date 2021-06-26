@@ -1,0 +1,9 @@
+Collected some project ideas from kaggle.
+
+- Global Terrorism Database
+- Heart Disease UCI
+- Stroke Prediction Dataset
+- Countries of the World
+- Life Expectancy 
+
+Still working on project selection. Topic is not fixed.
