@@ -1,0 +1,18 @@
+
+CSE499A-Project-Ideas
+
+
+//
+how to process mobile sensor data with deep learning
+
+dataset
+kaggle
+detect road track detection
+
+
+
+// 
+graph representation learning
+
+snap.stanford.edu
+graph embedding
