@@ -1,0 +1,8 @@
+
+CSE499A-Project-Ideas
+
+// 
+graph representation learning
+
+snap.stanford.edu
+graph embedding
