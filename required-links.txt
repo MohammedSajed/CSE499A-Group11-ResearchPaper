@@ -1,0 +1,17 @@
+
+
+https://neo4j.com/developer/graph-data-science/graph-embeddings/
+
+// dataset
+http://snap.stanford.edu/node2vec/
+https://dl.acm.org/doi/10.1145/3089801.3089802
+
+// learning resource
+https://towardsdatascience.com/introduction-to-pytorch-biggraph-with-examples
+https://github.com/facebookresearch/PyTorch-BigGraph
+
+// paper links
+https://scholar.google.com/scholar?q=papers+on+node2vec&hl=en&as_sdt=0&as_vis=1&oi=scholart
+
+// paper link from sir
+https://arxiv.org/pdf/1607.00653.pdf
