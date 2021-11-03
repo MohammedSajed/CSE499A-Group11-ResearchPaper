@@ -1,0 +1,6 @@
+[submodule "CSE499B-Part/CSE499B-Part/ic-app"]
+	path = CSE499B-Part/CSE499B-Part/ic-app
+	url = https://github.com/SabiqulHassan13/node-js-jwt-auth-NN.git
+[submodule "CSE499B-Part/node-js-jwt-auth-NN"]
+	path = CSE499B-Part/node-js-jwt-auth-NN
+	url = https://github.com/SabiqulHassan13/node-js-jwt-auth-NN.git
